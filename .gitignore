@@ -1,0 +1,4 @@
+/JokeAndNumberAPI/cofig.env
+/venv
+*.env
+*.flaskenv

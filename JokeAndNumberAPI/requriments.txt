@@ -1,0 +1,8 @@
+python-dotenv
+Flask
+matraz
+pyyaml
+requests
+decouple
+flask_pymongo
+pymongo
